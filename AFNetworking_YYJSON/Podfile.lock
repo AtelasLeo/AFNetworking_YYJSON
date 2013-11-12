@@ -1,0 +1,17 @@
+PODS:
+  - AFNetworking (1.3.3)
+  - YYJSONHelper (1.0)
+
+DEPENDENCIES:
+  - AFNetworking (~> 1.3.3)
+  - YYJSONHelper (from `https://github.com/dcty/YYJSON.git`)
+
+EXTERNAL SOURCES:
+  YYJSONHelper:
+    :git: https://github.com/dcty/YYJSON.git
+
+SPEC CHECKSUMS:
+  AFNetworking: 0700ec7a58c36ad217173e167f6e4df7270df66b
+  YYJSONHelper: 66e4761ff75101b85bd74cb99bc45f23070883af
+
+COCOAPODS: 0.23.0
